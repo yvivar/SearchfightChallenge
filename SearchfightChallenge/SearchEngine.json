@@ -1,0 +1,12 @@
+{
+    "searchEngine": {
+        "google": {
+            "key": "AIzaSyCg1QqJqQIcmlus3r-zMCIDmq1TK9Ge8uA",
+            "url": "https://www.googleapis.com/customsearch/v1?key={0}&q={1}&cx=017576662512468239146:omuauf_lfve"
+        },
+        "bing": {
+            "key": "50c4287b5b434333b35ed064ca4eba4b",
+            "url": "https://api.bing.microsoft.com/v7.0/search?q={0}&customconfig=0"
+        }
+    }
+}
